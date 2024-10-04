@@ -11,7 +11,7 @@ public class Delete_Product_Controller {
 			//Step1: load/register driver
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			
-			//Step2: Create connection(Establishing a conncetion)
+			//Step2: Create connection(Establishing a connection)
 			
 			String url = "jdbc:mysql://localhost:3306/jdbc-db";
 			String username = "root";
