@@ -1,1 +1,42 @@
+# Eclipse files
+/.classpath
+/.project
+/.settings/
+
+# Build directories and files
 /bin/
+/build/
+/target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+/logs/
+*.log
+
+# Environment files
+.env
+*.local
+*.properties
+
+# Dependency directories
+/lib/
+/node_modules/
+/venv/
+
+# Database credentials
+dbconfig.json
+database.yml
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE specific files
+/.idea/
+*.iml
+
